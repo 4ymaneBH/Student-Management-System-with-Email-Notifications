@@ -1,2 +1,4 @@
-Faker
-tk
+tkinter
+faker
+smtplib
+email
